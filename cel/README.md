@@ -3,7 +3,8 @@
 All the datasets for native FHD film anime productions.
 
 This does not include anime that are below native FHD,
-or downsampled from higher than native FHD (such as Cardcaptor Sakura).
+or downsampled from higher than native FHD
+(such as Cardcaptor Sakura).
 
 ## Anime included
 
