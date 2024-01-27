@@ -15,5 +15,6 @@ please refer to the root [README.md].
 | Anime included in this dataset                                  |
 | --------------------------------------------------------------- |
 | [Hai to Gensou no Grimgar](./Hai%20to%20Gensou%20no%20Grimgar/) |
+| [Keijo!!!!!!!!](./Keijo!!!!!!!!/)                               |
 
 [README.md]: ../README.md
