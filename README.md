@@ -18,13 +18,13 @@ depending on the type of model you're training.
 
 ## Known FHD anime
 
-| Anime name                           | In dataset | Digital/cel | Notes |
-| ------------------------------------ | ---------- | ----------- | ----- |
-| Clockwork Planet                     | No         | Digital     |       |
-| Hai to Gensou to Grimgar             | No         | Digital     |       |
-| Keijo!!!!!!!!                        | No         | Digital     |       |
-| Violet Evergarden                    | No         | Digital     |       |
-| Fulle Metal Panic! Invisible Victory | No         | Digital     |       |
+| Anime name                          | In dataset | Digital/cel | Notes |
+| ----------------------------------- | ---------- | ----------- | ----- |
+| Clockwork Planet                    | No         | Digital     |       |
+| Hai to Gensou to Grimgar            | Yes        | Digital     |       |
+| Keijo!!!!!!!!                       | No         | Digital     |       |
+| Violet Evergarden                   | No         | Digital     |       |
+| Full Metal Panic! Invisible Victory | No         | Digital     |       |
 
 ## Determining sources
 
