@@ -1,0 +1,5 @@
+.vscode/
+.vspreview/
+bin/
+src/
+export.py
