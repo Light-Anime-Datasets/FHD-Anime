@@ -17,5 +17,6 @@ please refer to the root [README.md].
 | [Hai to Gensou no Grimgar](./Hai%20to%20Gensou%20no%20Grimgar/)                                                               | JP BDMV Box |
 | [Keijo!!!!!!!!](./Keijo!!!!!!!!/)                                                                                             | JP BDMV     |
 | [Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches](./Renmei%20Kuugun%20Koukuu%20Mahou%20Ongakutai%20Luminous%20Witches/) | JP BDMV     |
+| [Violet Evergarden](./Violet%20Evergarden/)                                                                                   | JP BDMV     |
 
 [README.md]: ../README.md
