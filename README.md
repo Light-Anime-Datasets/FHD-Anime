@@ -68,6 +68,10 @@ We use three metrics to determine whether a show is native FHD:
    but gives us a plot of results to look at,
    as well as other helpers for narrowing down native resolutions.
 
+For a list of anime
+we're planning to verify,
+please refer to [VERIFY.md](./VERIFY.md).
+
 ## How are images exported?
 
 At the time of writing,
