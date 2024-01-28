@@ -25,6 +25,7 @@ depending on the type of model you're training.
 | Hai to Gensou no Grimgar                              | Yes        | Digital     | Grainy |
 | Keijo!!!!!!!!                                         | Yes        | Digital     |        |
 | Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches | Yes        | Digital     |        |
+| RWBY: Ice Queendom                                    | Yes        | Digital     |        |
 | Violet Evergarden                                     | Yes        | Digital     |        |
 
 For a list of checked
