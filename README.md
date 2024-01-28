@@ -22,7 +22,7 @@ depending on the type of model you're training.
 | ----------------------------------------------------- | ---------- | ----------- | ------------- |
 | Assault Lily: Bouquet                                 | Yes        | Digital     | Heavy banding |
 | Clockwork Planet                                      | No         | Digital     |               |
-| Full Metal Panic! Invisible Victory                   | No         | Digital     |               |
+| Full Metal Panic! Invisible Victory                   | Yes        | Digital     |               |
 | Hai to Gensou no Grimgar                              | Yes        | Digital     | Grainy        |
 | Keijo!!!!!!!!                                         | Yes        | Digital     |               |
 | Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches | Yes        | Digital     |               |
