@@ -18,13 +18,14 @@ depending on the type of model you're training.
 
 ## Known FHD anime
 
-| Anime name                          | In dataset | Digital/cel | Notes  |
-| ----------------------------------- | ---------- | ----------- | ------ |
-| Clockwork Planet                    | No         | Digital     |        |
-| Hai to Gensou no Grimgar            | Yes        | Digital     | Grainy |
-| Keijo!!!!!!!!                       | Yes        | Digital     |        |
-| Violet Evergarden                   | No         | Digital     |        |
-| Full Metal Panic! Invisible Victory | No         | Digital     |        |
+| Anime name                                            | In dataset | Digital/cel | Notes  |
+| ----------------------------------------------------- | ---------- | ----------- | ------ |
+| Clockwork Planet                                      | No         | Digital     |        |
+| Full Metal Panic! Invisible Victory                   | No         | Digital     |        |
+| Hai to Gensou no Grimgar                              | Yes        | Digital     | Grainy |
+| Keijo!!!!!!!!                                         | Yes        | Digital     |        |
+| Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches | Yes        | Digital     |        |
+| Violet Evergarden                                     | No         | Digital     |        |
 
 For a list of checked
 and excluded productions,
