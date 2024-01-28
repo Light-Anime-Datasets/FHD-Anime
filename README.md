@@ -21,7 +21,7 @@ depending on the type of model you're training.
 | Anime name                          | In dataset | Digital/cel | Notes  |
 | ----------------------------------- | ---------- | ----------- | ------ |
 | Clockwork Planet                    | No         | Digital     |        |
-| Hai to Gensou to Grimgar            | Yes        | Digital     | Grainy |
+| Hai to Gensou no Grimgar            | Yes        | Digital     | Grainy |
 | Keijo!!!!!!!!                       | Yes        | Digital     |        |
 | Violet Evergarden                   | No         | Digital     |        |
 | Full Metal Panic! Invisible Victory | No         | Digital     |        |
@@ -86,9 +86,23 @@ please double-check that we have not looked at your anime yet,
 and that it's likely to be a native FHD production.
 Consistent wrongful issues may result in a ban.
 
+We also welcome issues
+that help slim down the dataset
+by removing redundant frames,
+or frames that make for poor training data.
+If possible,
+please include a list of frames
+that you believe should be removed,
+and we'll look at them.
+
+If you'd like to get into direct contact with me,
+please join the [Jaded Encoding Thaumaturgy discord server][discord].
+
 ## Additional resources
 
-Here are a list of additional resources that (accurately) document native FHD sources:
+Here are a list of additional resources that (mostly accurately) document native FHD sources:
+
+<!-- "mostly" because the AB collage has SAOA lol. -->
 
 -   [Anibin]
 -   [AnimeBytes]'s "Produced at 1080p" collage
@@ -101,3 +115,4 @@ Here are a list of additional resources that (accurately) document native FHD so
 [export-png]: https://github.com/Jaded-Encoding-Thaumaturgy/lvsfunc/blob/export-png/lvsfunc/export.py#L19-L120
 [anibin]: https://anibin.blogspot.com/
 [AnimeBytes]: https://animebytes.tv/collage.php?id=522
+[discord]: https://discord.gg/2knZXNC5Qx

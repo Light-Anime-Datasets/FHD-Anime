@@ -12,7 +12,7 @@ For a more thorough list of _all_ native FHD anime,
 with accompanying notes and anime not included here,
 please refer to the root [README.md].
 
-| Anime included in this dataset |
-| ------------------------------ |
+| Anime included in this dataset | Source Used |
+| ------------------------------ | ----------- |
 
 [README.md]: ../README.md
