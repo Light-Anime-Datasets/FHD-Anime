@@ -26,6 +26,10 @@ depending on the type of model you're training.
 | Violet Evergarden                   | No         | Digital     |        |
 | Full Metal Panic! Invisible Victory | No         | Digital     |        |
 
+For a list of checked
+and excluded productions,
+please refer to the [EXCLUDED.md](./EXCLUDED.md) file.
+
 ## Determining sources
 
 There are a handful of considerations to take into account when selecting sources:
