@@ -16,7 +16,7 @@ for all the anime included in this dataset.
 We also occasionally include notes that may be useful
 depending on the type of model you're training.
 
-## Known FHD anime
+## Confirmed FHD anime
 
 | Anime name                                                 | In dataset | Digital/cel | Notes                              |
 | ---------------------------------------------------------- | ---------- | ----------- | ---------------------------------- |
@@ -34,11 +34,11 @@ depending on the type of model you're training.
 
 For a list of checked
 and excluded productions,
-please refer to the [EXCLUDED.md](./EXCLUDED.md) file.
+please refer to the [excluded anime](./VERIFIED.md#excluded-anime) list.
 For a list of anime
 that were checked
 and determined _not_ to be FHD,
-please refer to [VERIFIED.md](./VERIFIED.md#verified-non-fhd-anime).
+please refer to [verified-non-fhd-anime](./VERIFIED.md#verified-non-fhd-anime).
 
 ## Determining sources
 
