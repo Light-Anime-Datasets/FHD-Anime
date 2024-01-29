@@ -35,6 +35,10 @@ depending on the type of model you're training.
 For a list of checked
 and excluded productions,
 please refer to the [EXCLUDED.md](./EXCLUDED.md) file.
+For a list of anime
+that were checked
+and determined _not_ to be FHD,
+please refer to [VERIFIED.md](./VERIFIED.md#verified-non-fhd-anime).
 
 ## Determining sources
 
