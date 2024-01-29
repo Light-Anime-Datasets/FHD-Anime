@@ -18,16 +18,19 @@ depending on the type of model you're training.
 
 ## Known FHD anime
 
-| Anime name                                            | In dataset | Digital/cel | Notes         |
-| ----------------------------------------------------- | ---------- | ----------- | ------------- |
-| Assault Lily: Bouquet                                 | Yes        | Digital     | Heavy banding |
-| Clockwork Planet                                      | No         | Digital     |               |
-| Full Metal Panic! Invisible Victory                   | Yes        | Digital     |               |
-| Hai to Gensou no Grimgar                              | Yes        | Digital     | Grainy        |
-| Keijo!!!!!!!!                                         | Yes        | Digital     |               |
-| Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches | Yes        | Digital     |               |
-| RWBY: Ice Queendom                                    | Yes        | Digital     |               |
-| Violet Evergarden                                     | Yes        | Digital     |               |
+| Anime name                                                 | In dataset | Digital/cel | Notes                              |
+| ---------------------------------------------------------- | ---------- | ----------- | ---------------------------------- |
+| Assault Lily: Bouquet                                      | Yes        | Digital     | Heavy banding                      |
+| Clockwork Planet                                           | No         | Digital     |                                    |
+| Full Metal Panic! Invisible Victory                        | Yes        | Digital     |                                    |
+| Hai to Gensou no Grimgar                                   | Yes        | Digital     | Grainy                             |
+| Keijo!!!!!!!!                                              | Yes        | Digital     |                                    |
+| Magia Record: Mahou Shoujo Madoka Magica Gaiden (Season 1) | Yes        | Digital     | Various artsyles, Grainy, Aliasing |
+| Magia Record: Mahou Shoujo Madoka Magica Gaiden (Season 2) | Yes        | Digital     | Various artsyles, Grainy, Aliasing |
+| Magia Record: Mahou Shoujo Madoka Magica Gaiden (Season 3) | Yes        | Digital     | Various artsyles, Grainy, Aliasing |
+| Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches      | Yes        | Digital     |                                    |
+| RWBY: Ice Queendom                                         | Yes        | Digital     |                                    |
+| Violet Evergarden                                          | Yes        | Digital     |                                    |
 
 For a list of checked
 and excluded productions,
